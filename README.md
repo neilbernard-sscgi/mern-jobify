@@ -1,3 +1,3 @@
 # Mern
 
-[Jobify Ur](https://github.com/neilbernard-sscgi/mern-jobify)
+[Jobify Url](https://mern-jobify-ksu6.onrender.com/)
